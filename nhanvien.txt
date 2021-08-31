@@ -1,0 +1,7 @@
+
+Thông tin nhân viên
+ => Mã nhân viên: 2000170	 Tên nhân viên: Đặng Thị Trà My	 Tổ làm việc: 4	 Địa chỉ: Lạng Sơn	 Số điện thoại: 0378850383	 Thời gian làm(Giờ): 10h 	 Lương thoả thuận(USD/Giờ): 2000USD 	 Tiền lương: 20000USD
+Thông tin nhân viên
+ => Mã nhân viên: 1900282	 Tên nhân viên: Nguyễn Kế Hưng	 Tổ làm việc: 5	 Địa chỉ: Quảng Ninh	 Số điện thoại: 0349124347	 Thời gian làm(Giờ): 12h 	 Lương thoả thuận(USD/Giờ): 1000USD 	 Tiền lương: 12000USD
+Thông tin nhân viên
+ => Mã nhân viên: 1900174	 Tên nhân viên: Nguyễn Văn Quang	 Tổ làm việc: 8	 Địa chỉ: Quảng Ninh	 Số điện thoại: 0975865700	 Thời gian làm(Giờ): 14h 	 Lương thoả thuận(USD/Giờ): 1500USD 	 Tiền lương: 21000USD
